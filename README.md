@@ -1,20 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zohaib Shahid</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
+<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaib-7035&label=Profile%20views&color=0e75b6&style=flat" alt="zohaib-7035" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zohaib-7035" alt="zohaib-7035" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 50%">
-<img align="left" alt="Coding 2" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius: 50%">
 
-
-
-
-
-
-<br> <!-- This adds space to move text below the GIF -->
--  🔬 I’m currently working on **Machine Learning**
+- 🔬 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **.NET, Deep Learning**
 
