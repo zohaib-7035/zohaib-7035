@@ -13,7 +13,7 @@
 
 
 
-
+<br> <!-- This adds space to move text below the GIF -->
 -  🔬 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **.NET, Deep Learning**
