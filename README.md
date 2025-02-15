@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zohaib Shahid</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
+<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaib-7035&label=Profile%20views&color=0e75b6&style=flat" alt="zohaib-7035" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zohaib-7035" alt="zohaib-7035" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔬 I’m currently working on **Machine Learning**
 
@@ -15,7 +17,7 @@
 
 - 💬 Ask me about **Data Modeling**
 
-- 💌 How to reach me **zohaibshahid@gmail.com**
+- 📨 How to reach me **zohaibshahid@gmail.com**
 
 - ⚡ Fun fact **I'm the kind of person who debugs code with a smile and breaks bugs with a laugh! 😆**
 
@@ -46,3 +48,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohaib-7035&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zohaib-7035&" alt="GitHub Streak" /></p>
+
+<h3 align="left">Featured Video:</h3>
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch Video" width="400"/>
+  </a>
+</p>
