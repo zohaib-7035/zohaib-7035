@@ -7,9 +7,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 50%">
 
-- 🔬 I’m currently working on **Machine Learning**
+- 🔬 I’m currently working on **ML solutions for daily usage**
 
-- 🌱 I’m currently learning **.NET, Deep Learning**
+- 🌱 I’m currently learning **.NET,DL,AI,NLP**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/zohaib-7035)
 
