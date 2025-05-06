@@ -15,9 +15,9 @@
 
 - 📝 I regularly write articles on **[My Personal Life](#)**
 
-- 💬 Ask me about **Data Modeling**
+- 💬 I turn raw data into meaningful, actionable insights with precision and clarity.
 
-- 📨 How to reach me **zohaibshahid@gmail.com**
+- 📨 How to reach me **zohaibshahid7035@gmail.com**
 
 - ⚡ Fun fact **I'm the kind of person who debugs code with a smile and breaks bugs with a laugh! 😆**
 
