@@ -4,7 +4,7 @@
 
    
    
-  ![Profile Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zohaib-7035/zohaib-7035/main/.github/fake-counter.txt)
+   ![Profile Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zohaib-7035/zohaib-7035/main/.github/fake-counter.json)
 </p>
 
 
