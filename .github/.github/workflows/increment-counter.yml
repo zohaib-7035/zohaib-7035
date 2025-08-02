@@ -1,0 +1,32 @@
+name: Fake Visitor Counter
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # Every 5 minutes
+  workflow_dispatch:      # Allow manual run too
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Increment Counter
+        run: |
+          file=".github/fake-counter.json"
+          count=$(jq -r .message $file)
+          new_count=$((count + 1))
+          jq --arg new_count "$new_count" '.message = $new_count' $file > temp.json && mv temp.json $file
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .github/fake-counter.json
+          git commit -m "Increment counter"
+          git push
