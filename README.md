@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zohaib Shahid</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <p align="left">
-![Profile Views](https://img.shields.io/badge/Visitors-12000-orange?style=flat-square)
+
+[Profile Views](https://img.shields.io/badge/Visitors-12000-orange?style=flat-square)
 </p>
 
 
