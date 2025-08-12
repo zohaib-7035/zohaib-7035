@@ -51,4 +51,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohaib-7035&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<img align="center" src="https://streak-stats.demolab.com/?user=zohaib-7035" alt="GitHub Streak" />
+<img align="center" src="https://streak-stats.demolab.com/?user=zohaib-7035" alt="GitHub Streak" </img>
