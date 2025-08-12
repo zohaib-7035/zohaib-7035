@@ -45,7 +45,6 @@
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zohaib-7035&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -56,8 +55,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zohaib-7035" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zohaib-7035&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
+
+---
+
 ### 🟢 GitHub Contribution Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaib-7035&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
