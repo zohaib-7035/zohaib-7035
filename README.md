@@ -46,9 +46,15 @@
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zohaib-7035&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zohaib-7035&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohaib-7035&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zohaib-7035&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<img align="center" src="https://streak-stats.demolab.com/?user=zohaib-7035" alt="GitHub Streak" </img>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zohaib-7035" alt="GitHub Streak" />
+</p>
