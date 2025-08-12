@@ -58,3 +58,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=zohaib-7035" alt="GitHub Streak" />
 </p>
+### 🟢 GitHub Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaib-7035&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
