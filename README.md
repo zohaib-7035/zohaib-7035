@@ -10,7 +10,7 @@
 
 - 🔬  Currently building smart **ML** solutions to simplify and supercharge daily life!
 
-- 🌱 I’m currently learning **RAG,NLP**
+- 🌱 I’m currently learning **RAG,NLP,CV**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/zohaib-7035)
 
