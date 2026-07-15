@@ -10,7 +10,7 @@
 
 - 🔬  Currently building smart **ML** solutions to simplify and supercharge daily life!
 
-- 🌱 I’m currently learning **RAG,NLP,CV**
+- 🌱 I'm currently learning **RAG,NLP,CV**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/zohaib-7035)
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zohaib-shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zohaib shahid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zohaib-shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zohaib-7035&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="   " />
+  <img src="https://streak-stats.demolab.com?user=zohaib-7035&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
