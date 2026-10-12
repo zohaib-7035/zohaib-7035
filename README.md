@@ -200,15 +200,7 @@ A free, fully local stock analysis tool. A multi-agent pipeline combines sentime
 
 ---
 
-## Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zohaib7035/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:zohaibshahid7035@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/zohaib_shahid"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
-<p align="center">Got an AI idea, a dataset, or a bug that's winning? Reach out.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zohaib-7035&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
