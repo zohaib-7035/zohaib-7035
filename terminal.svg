@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="Animated terminal running a profile script">
+  <defs>
+    <linearGradient id="sweep" x1="-0.3" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38bdf8" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+      <animate attributeName="x1" values="-0.3;1.1" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1.4" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <mask id="cmd1" maskUnits="userSpaceOnUse" x="0" y="0" width="800" height="360">
+      <rect x="36" y="78" width="0" height="26" fill="#fff">
+        <animate attributeName="width" values="0;200;200;0;0" keyTimes="0;0.107;0.943;0.944;1" dur="14s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+    <mask id="cmd2" maskUnits="userSpaceOnUse" x="0" y="0" width="800" height="360">
+      <rect x="36" y="230" width="0" height="26" fill="#fff">
+        <animate attributeName="width" values="0;0;330;330;0;0" keyTimes="0;0.257;0.371;0.943;0.944;1" dur="14s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+  <style>
+    .mono { font-family: Consolas, 'Fira Code', 'Courier New', monospace; font-size: 18px; font-weight: 500; }
+    .show { opacity: 0; animation-duration: 14s; animation-iteration-count: infinite; animation-timing-function: linear; }
+    .k-name { animation-name: kName; }
+    .k-role { animation-name: kRole; }
+    .k-school { animation-name: kSchool; }
+    .k-load { animation-name: kLoad; }
+    .k-spin { animation-name: kSpin; }
+    .k-done { animation-name: kDone; }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 0.9s linear infinite; }
+    @keyframes kName { 0%, 12.8% { opacity: 0; } 16.4%, 94.2% { opacity: 1; } 94.4%, 100% { opacity: 0; } }
+    @keyframes kRole { 0%, 17% { opacity: 0; } 20.6%, 94.2% { opacity: 1; } 94.4%, 100% { opacity: 0; } }
+    @keyframes kSchool { 0%, 20.6% { opacity: 0; } 24.2%, 94.2% { opacity: 1; } 94.4%, 100% { opacity: 0; } }
+    @keyframes kLoad { 0%, 39.8% { opacity: 0; } 40.2%, 94.2% { opacity: 1; } 94.4%, 100% { opacity: 0; } }
+    @keyframes kSpin { 0%, 39.8% { opacity: 0; } 40.2%, 54.2% { opacity: 1; } 54.4%, 100% { opacity: 0; } }
+    @keyframes kDone { 0%, 58.3% { opacity: 0; } 62%, 94.2% { opacity: 1; } 94.4%, 100% { opacity: 0; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+
+  <rect x="10" y="10" width="780" height="340" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <path d="M10,50 V24 Q10,10 24,10 H776 Q790,10 790,24 V50 Z" fill="#161b22"/>
+  <line x1="10" y1="50" x2="790" y2="50" stroke="#30363d"/>
+  <circle cx="34" cy="30" r="6" fill="#ff5f56"/>
+  <circle cx="54" cy="30" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="30" r="6" fill="#27c93f"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Consolas, monospace" font-size="14" fill="#8b949e">profile.sh - zohaib@lahore</text>
+
+  <text class="mono" mask="url(#cmd1)" x="36" y="96" fill="#7ee787">$ python whoami.py</text>
+  <text class="mono show k-name" x="36" y="144" fill="#e6edf3" style="font-size:30px;font-weight:700;" filter="url(#glow)">Zohaib Shahid</text>
+  <text class="mono show k-role" x="36" y="178" fill="#79c0ff">role    Data Scientist &amp; AI Developer</text>
+  <text class="mono show k-school" x="36" y="206" fill="#ffa657">school  FAST NUCES, Lahore</text>
+
+  <text class="mono" mask="url(#cmd2)" x="36" y="248" fill="#7ee787">$ python debug.py --mood smile</text>
+  <g class="show k-load">
+    <text class="mono" x="36" y="286" fill="#8b949e">loading profile</text>
+    <rect x="230" y="278" width="260" height="12" rx="6" fill="#21262d"/>
+    <rect x="230" y="278" width="0" height="12" rx="6" fill="#3fb950">
+      <animate attributeName="width" values="0;0;260;260;0;0" keyTimes="0;0.4;0.543;0.943;0.944;1" dur="14s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g class="show k-spin">
+    <circle class="spin" cx="212" cy="284" r="7" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-dasharray="30 14"/>
+  </g>
+
+  <text class="mono show k-done" x="36" y="326" fill="#3fb950">✔ Bug squashed. Laughing it off.</text>
+
+  <rect x="10" y="50" width="780" height="300" fill="url(#sweep)"/>
+</svg>
