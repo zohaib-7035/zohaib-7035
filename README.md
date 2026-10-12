@@ -186,19 +186,6 @@ A free, fully local stock analysis tool. A multi-agent pipeline combines sentime
   <img src="https://streak-stats.demolab.com?user=zohaib-7035&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zohaib-7035&theme=onedark&no-frame=true&margin-w=6" alt="GitHub trophies" />
-</p>
-
-<details>
-<summary><b>Activity graph</b></summary>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaib-7035&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
-</details>
-
 <details>
 <summary><b>Contribution snake 🐍</b></summary>
 
